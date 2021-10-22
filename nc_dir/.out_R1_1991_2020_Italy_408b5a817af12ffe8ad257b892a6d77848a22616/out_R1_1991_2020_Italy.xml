@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Indexer>
+    <coverages>
+        <coverage>
+            <schema name="TOT_PREC">
+                <attributes>the_geom:Polygon,imageindex:Integer,time:java.util.Date</attributes>
+            </schema>
+            <origName>TOT_PREC</origName>
+            <name>TOT_PREC</name>
+        </coverage>
+    </coverages>
+</Indexer>

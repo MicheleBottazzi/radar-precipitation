@@ -1,0 +1,1 @@
+/home/michele/radar-precipitation/clipped_4.nc

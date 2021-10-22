@@ -1,0 +1,1 @@
+/home/michele/radar-precipitation/nc_dir/out_R1_1991_2020_Italy.nc
